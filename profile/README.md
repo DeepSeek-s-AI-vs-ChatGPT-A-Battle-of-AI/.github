@@ -9,6 +9,7 @@ DeepSeek AI is a relatively new player in the AI space. Developed with a focus o
 
 ### ChatGPT
 ChatGPT, developed by **OpenAI**, has been a market leader in conversational AI. Built upon the **GPT (Generative Pre-trained Transformer)** architecture, it is widely used for **content creation, coding assistance, customer support, and educational purposes**. ChatGPT continues to evolve with newer versions, such as **GPT-4**, which enhance reasoning and contextual understanding.
+
 ---
 
 [To know more- Click Here](https://sougatasau.online/deepseeks-ai-vs-chatgpt-a-battle-of-ai-innovation/)
